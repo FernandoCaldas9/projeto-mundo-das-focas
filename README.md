@@ -21,10 +21,14 @@
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
 | Desktop | Mobile |
-|--------|--------|
-| ![desktop](./imagens/print-desktop.png) | ![mobile](./imagens/print-mobile.png) |
+|---------|--------|
+| ![desktop](./img/print-desktop.png) | ![mobile](./img/print-mobile.png) |
+
+
+
 
 
 
