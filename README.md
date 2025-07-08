@@ -1,8 +1,6 @@
 # 🌊 Mundo das Focas
 
-> Site informativo e visual sobre focas, desenvolvido com HTML e CSS puro. Design simples, limpo e responsivo, criado durante o curso de desenvolvimento web da OneBitCode.
-
----
+> Site informativo e visual sobre focas, desenvolvido com HTML e CSS puro. Design simples, limpo e responsivo.
 
 ## 💡 Funcionalidades
 
