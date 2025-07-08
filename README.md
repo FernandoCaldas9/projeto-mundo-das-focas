@@ -23,7 +23,7 @@
 
 | Desktop | Mobile |
 |---------|--------|
-| ![desktop](print-focas-desktop.png) | ![mobile]() |
+| ![desktop](print-focas-desktop.png) | ![mobile](print-mobile-focas.png) |
 
 
 
