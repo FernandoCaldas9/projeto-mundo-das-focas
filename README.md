@@ -25,7 +25,7 @@
 
 | Desktop | Mobile |
 |---------|--------|
-| ![desktop](./img/print-desktop.png) | ![mobile](./img/print-mobile.png) |
+| ![desktop](print-focas-desktop.png) | ![mobile](./img/print-mobile.png) |
 
 
 
