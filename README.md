@@ -4,10 +4,13 @@
 
 ## 💡 Funcionalidades
 
-- ✅ Layout totalmente responsivo
-- ✅ Informações educativas sobre focas
-- ✅ Estilo visual atrativo com CSS
-- ✅ Estrutura semântica com HTML5
+- ✅ Layout totalmente responsivo para todos os dispositivos  
+- ✅ Informações educativas e detalhadas sobre focas  
+- ✅ Estilo visual atrativo, limpo e moderno com CSS  
+- ✅ Estrutura semântica com HTML5 para melhor SEO e acessibilidade  
+- ✅ Navegação interna por âncoras para facilitar o acesso às seções  
+- ✅ Imagens ilustrativas para enriquecer o conteúdo  
+- ✅ Fácil personalização e expansão do site  
 
 ---
 
@@ -19,11 +22,42 @@
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 | Desktop | Mobile |
 |---------|--------|
 | ![desktop](print-focas-desktop.png) | ![mobile](print-mobile-focas.png) |
+
+---
+
+## 🚀 Como Visualizar
+
+1. Clone o repositório:  
+   `git clone <URL-do-repositorio>`
+
+2. Abra o arquivo `index.html` em qualquer navegador moderno.
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Para colaborar:
+
+1. Faça um fork do projeto  
+2. Crie uma branch: `git checkout -b minha-feature`  
+3. Faça commit das alterações: `git commit -m "Descrição da feature"`  
+4. Envie para o repositório remoto: `git push origin minha-feature`  
+5. Abra um Pull Request
+
+---
+
+## 📞 Contato
+
+Para dúvidas ou sugestões: fndcaldas@gmail.com
+
+---
+
+© 2025 Mundo das Focas — Todos os direitos reservados 🌊
+
 
 
 
