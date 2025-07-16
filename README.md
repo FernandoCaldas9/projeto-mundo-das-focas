@@ -8,7 +8,7 @@
 - ✅ Informações educativas e detalhadas sobre focas  
 - ✅ Estilo visual atrativo, limpo e moderno com CSS  
 - ✅ Estrutura semântica com HTML5 para melhor SEO e acessibilidade  
-- ✅ Navegação interna por âncoras para facilitar o acesso às seções  
+- ✅ Navegação interna por âncoras para facilitar o acesso às seções
 - ✅ Imagens ilustrativas para enriquecer o conteúdo  
 - ✅ Fácil personalização e expansão do site  
 
